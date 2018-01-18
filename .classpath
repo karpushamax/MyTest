@@ -23,11 +23,11 @@
 	<classpathentry kind="lib" path="C:/Users/bsati/Documents/work/cobertura-2.1.1/cobertura-2.1.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/bsati/Documents/work/cobertura-2.1.1/cobertura-2.1.1-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/bsati/Documents/work/selenium-server-standalone-3.8.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bsati/Documents/work/cucumber-junit-1.1.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bsati/Documents/work/jar_files (3)/cucumber-junit-1.2.5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
