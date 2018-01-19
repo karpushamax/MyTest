@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 import cucumber.api.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="features")
+@CucumberOptions(features= {"features/test.feature"})
 public class Runner {
 
 }
